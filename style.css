@@ -14,29 +14,59 @@
   color: black;
 }
 
-@media (min-height: 750px) {
+#navbar {
+  width: 100%;
+}
+
+#navbar-container {
+  justify-content: space-between;
+}
+
+@media (min-height: 755px) {
   #home {
-    height: 790px !important;
+    height: 800px !important;
   }
 
   #profile {
-    height: 790px !important;
+    height: 800px !important;
   }
 
   #discover {
-    height: 790px !important;
+    height: 800px !important;
   }
 
   #users {
-    height: 790px !important;
+    height: 800px !important;
   }
 
   #settings {
-    height: 790px !important;
+    height: 800px !important;
   }
 }
 
-@media (min-height: 900px) {
+@media (min-height: 801px) {
+  #home {
+    height: 915px !important;
+  }
+
+  #profile {
+    height: 915px !important;
+  }
+
+  #discover {
+    height: 915px !important;
+  }
+
+  #users {
+    height: 915px !important;
+  }
+
+  #settings {
+    height: 915px !important;
+  }
+}
+
+@media (min-height: 935px) {
   #home {
     height: 975px !important;
   }
