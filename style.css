@@ -1,0 +1,125 @@
+/* @media (min-width: 750px) {
+  #navbar-toggler {
+    display: ;
+  }
+} */
+
+/* 
+* {
+  color: white;
+} */
+
+*::selection {
+  background-color: goldenrod;
+  color: black;
+}
+
+@media (min-height: 750px) {
+  #home {
+    height: 790px !important;
+  }
+
+  #profile {
+    height: 790px !important;
+  }
+
+  #discover {
+    height: 790px !important;
+  }
+
+  #users {
+    height: 790px !important;
+  }
+
+  #settings {
+    height: 790px !important;
+  }
+}
+
+@media (min-height: 900px) {
+  #home {
+    height: 975px !important;
+  }
+
+  #profile {
+    height: 975px !important;
+  }
+
+  #discover {
+    height: 975px !important;
+  }
+
+  #users {
+    height: 975px !important;
+  }
+
+  #settings {
+    height: 975px !important;
+  }
+}
+
+@media (min-height: 1000px) {
+  #home {
+    height: 1080px !important;
+  }
+
+  #profile {
+    height: 1080px !important;
+  }
+
+  #discover {
+    height: 1080px !important;
+  }
+
+  #users {
+    height: 1080px !important;
+  }
+
+  #settings {
+    height: 1080px !important;
+  }
+}
+
+@media (min-height: 1300px) {
+  #home {
+    height: 1440px !important;
+  }
+
+  #profile {
+    height: 1440px !important;
+  }
+
+  #discover {
+    height: 1440px !important;
+  }
+
+  #users {
+    height: 1440px !important;
+  }
+
+  #settings {
+    height: 1440px !important;
+  }
+}
+
+@media (min-height: 1900px) {
+  #home {
+    height: 2160px !important;
+  }
+
+  #profile {
+    height: 2160px !important;
+  }
+
+  #discover {
+    height: 2160px !important;
+  }
+
+  #users {
+    height: 2160px !important;
+  }
+
+  #settings {
+    height: 2160px !important;
+  }
+}
