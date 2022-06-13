@@ -10,19 +10,19 @@
 } */
 
 *::selection {
-  background-color: goldenrod;
-  color: black;
+    background-color: goldenrod;
+    color: black;
 }
 
 #navbar {
-  width: 100%;
+    width: 100%;
 }
 
 #navbar-container {
-  justify-content: space-between;
+    justify-content: space-between;
 }
 
-@media (min-height: 755px) {
+/* @media (min-height: 755px) {
   #home {
     height: 800px !important;
   }
@@ -152,4 +152,20 @@
   #settings {
     height: 2160px !important;
   }
+} */
+
+#home {
+    height: 100vh;
+}
+#profile {
+    height: 100vh;
+}
+#discover {
+    height: 100vh;
+}
+#users {
+    height: 100vh;
+}
+#settings {
+    height: 100vh;
 }
